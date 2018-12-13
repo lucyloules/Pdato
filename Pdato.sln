@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pdato", "Pdato\Pdato.csproj", "{6B25921A-C8E9-4B8D-BD69-DD131F333C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pdato.Tests", "Pdato.Tests\Pdato.Tests.csproj", "{8E9BF0A2-0223-4408-B148-1416E3105A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B25921A-C8E9-4B8D-BD69-DD131F333C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B25921A-C8E9-4B8D-BD69-DD131F333C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B25921A-C8E9-4B8D-BD69-DD131F333C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B25921A-C8E9-4B8D-BD69-DD131F333C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9BF0A2-0223-4408-B148-1416E3105A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9BF0A2-0223-4408-B148-1416E3105A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9BF0A2-0223-4408-B148-1416E3105A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9BF0A2-0223-4408-B148-1416E3105A87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
